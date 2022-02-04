@@ -1,39 +1,29 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Iris/Elliot Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+For my generative text project, I would like to experiment with Beanie Baby poems to create a completely AI Beanie Baby. I was inspired by the “Beanie Mania” documentary where the programmer of the first Beanie Baby website also wrote all the poems for the tags. My source will be a compiled text file with all the poems of the Beanie Babys. I will only be including Beanie Baby Poems in English. With this limitation, my outcomes will hopefully more cohesive and maintain the structure of the input poems. I will also include the names of the Beanie Babys. My creative goal is to sew and craft a physical Beanie Baby based on a compelling generated name and poem. 
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+coming soon!
 
 ## Code
 
-Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+coming soon!
 
 ## Results
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+coming soon!
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+coming soon!
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-  - [This is a paper](this_is_the_link.pdf)
-- Repositories
-- Blog posts
+The text file references are from this website http://critters.50megs.com/beanie/beaniepoemsA-G.htm (a compilation of all beanie baby names respective poems) 
+Another reference is the Beanie Mania Documentary, which inspired this project: https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH
+
