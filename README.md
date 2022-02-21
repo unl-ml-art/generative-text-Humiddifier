@@ -16,7 +16,7 @@ Sample Data found here - http://critters.50megs.com/beanie/beaniepoemsA-G.htm
 gpt2-generate-finetune-checkpoint.ipynb, located without results in checkpoints folder
 
 ## Results
-
+Results can be found in BeanAI Baby Designs folder 
 
 ## Reference
 
