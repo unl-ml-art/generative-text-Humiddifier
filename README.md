@@ -8,7 +8,9 @@ For my Generative Text Project, I used GPT 2 to generate Beanie Baby Poems using
 
 ## Model/Data
 
-GPT 2/Data pulled from critters.50megs.com, a pdf can be found above. 
+GPT 2 - https://openai.com/blog/better-language-models/
+
+Sample Data found here - http://critters.50megs.com/beanie/beaniepoemsA-G.htm
 
 ## Results
 
