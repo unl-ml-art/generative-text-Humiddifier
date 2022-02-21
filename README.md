@@ -12,6 +12,9 @@ GPT 2 - https://openai.com/blog/better-language-models/
 
 Sample Data found here - http://critters.50megs.com/beanie/beaniepoemsA-G.htm
 
+## Code 
+gpt2-generate-finetune-checkpoint.ipynb, located without results in checkpoints folder
+
 ## Results
 
 
