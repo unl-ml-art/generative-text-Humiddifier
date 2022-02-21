@@ -1,26 +1,17 @@
-# Project 1 Generative Text
+# BeanAI Baby, Project 1
 
 Iris/Elliot Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
-For my generative text project, I would like to experiment with Beanie Baby poems to create a completely AI Beanie Baby. I was inspired by the “Beanie Mania” documentary where the programmer of the first Beanie Baby website also wrote all the poems for the tags. My source will be a compiled text file with all the poems of the Beanie Babys. I will only be including Beanie Baby Poems in English. With this limitation, my outcomes will hopefully more cohesive and maintain the structure of the input poems. I will also include the names of the Beanie Babys. My creative goal is to sew and craft a physical Beanie Baby based on a compelling generated name and poem. 
+For my Generative Text Project, I used GPT 2 to generate Beanie Baby Poems using a set of data collected from critter.50megs.com. From this text I aimed to collaborate with GPT 2 to design Beanie Babies based off the generated poems. I was inspired by Lina Trivedi, who wrote the first 136 Beanie Baby Poems, and is also credited with creating the first business to consumer website for Ty in 1995. In my sample data I decided to eliminate the German Beanie Baby poems to keep the language consistent to English. To determine the quality of generation, the new Beanie Baby poem must have a unique poem unlike the sample data, it also must have a unique name to animal match up. This was important for me because it shows the learning capabilities of GPT 2 and allows for exploration on my end, trying to determine what the Beanie Baby would look like. 
 
 ## Model/Data
 
-coming soon!
-
-## Code
-
-coming soon!
+GPT 2/Data pulled from critters.50megs.com, a pdf can be found above. 
 
 ## Results
 
-coming soon!
-
-## Technical Notes
-
-coming soon!
 
 ## Reference
 
