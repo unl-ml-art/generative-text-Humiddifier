@@ -23,3 +23,5 @@ Or viewed on Google Drive here: https://drive.google.com/drive/folders/1ca3L0Fxw
 The text file references are from this website http://critters.50megs.com/beanie/beaniepoemsA-G.htm (a compilation of all beanie baby names respective poems) 
 Another reference is the Beanie Mania Documentary, which inspired this project: https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH
 
+I used scans of the heart swing tags from http://www.aboutbeanies.com/swingtags.shtml in my artwork. 
+
