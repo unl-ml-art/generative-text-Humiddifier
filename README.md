@@ -17,10 +17,12 @@ gpt2-generate-finetune-checkpoint.ipynb, located without results in checkpoints 
 
 ## Results
 Results can be found in BeanAI Baby Designs folder 
-Or viewed on Google Drive here: https://drive.google.com/drive/folders/1ca3L0FxwUokmlBWNv7oM_miBLZ3aDH7x?usp=sharing
+
+or viewed on Google Drive here: https://drive.google.com/drive/folders/1ca3L0FxwUokmlBWNv7oM_miBLZ3aDH7x?usp=sharing
 ## Reference
 
 The text file references are from this website http://critters.50megs.com/beanie/beaniepoemsA-G.htm (a compilation of all beanie baby names respective poems) 
+
 Another reference is the Beanie Mania Documentary, which inspired this project: https://www.hbomax.com/feature/urn:hbo:feature:GYbOeyAqsY4qlwgEAAAGH
 
 I used scans of the heart swing tags from http://www.aboutbeanies.com/swingtags.shtml in my artwork. 
